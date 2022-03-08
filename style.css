@@ -1,0 +1,16 @@
+table{
+ border: solid 2px black;
+ width: 450px;
+ height: 400px;
+ margin-left: 350px;
+ margin-top: 170px;
+}
+td{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.yaa{
+    background-color:black;
+    color: blanchedalmond;
+}
